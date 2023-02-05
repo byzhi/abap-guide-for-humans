@@ -1,6 +1,6 @@
 # ABAP for humans
 
-ABAP guidebook written for humans. 
+this is a ABAP guidebook written for humans
 
 ## Features
 
